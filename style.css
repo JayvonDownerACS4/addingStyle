@@ -1,0 +1,40 @@
+body
+{
+    background-image:url("assets/topper.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.singleBurger
+{
+    padding: 10px;
+    border: solid 2px blue;
+    background-color: lightblue;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px
+  
+}
+.mainContent
+{
+    border: solid 5px red;
+}
+#top
+{
+    color:white;
+}
+img
+{
+    width: 25%;
+    vertical-align: middle;
+}
+p
+{
+    width: 75%;
+    vertical-align: middle;
+    display: inline-block
+}
+/*id specifices one element with a name  */
+/*to call an id class, use '#' */
+/*class specifies all the elements w/ the same name  */
+/*to call an class, use an '.' */
